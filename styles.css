@@ -1,3 +1,9 @@
-.style-scope .ytd-rich-grid-renderer {
+.ytd-rich-item-renderer[rendered-from-rich-grid]{
     max-width: 20vw;
+    min-width: 300px;
+}
+
+ytd-rich-item-renderer[rendered-from-rich-grid] {
+    max-width: 20vw;
+    min-width: 300px;
 }

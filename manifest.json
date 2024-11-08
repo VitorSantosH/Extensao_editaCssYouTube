@@ -2,7 +2,7 @@
       "manifest_version": 3,
       "name": "Custom CSS for Specific Page",
       "version": "1.0",
-      "description": "Change CSS of a specific webpage",
+      "description": "Custon CSS for youtube",
       "permissions": ["activeTab", "scripting"],
       "content_scripts": [
         {
